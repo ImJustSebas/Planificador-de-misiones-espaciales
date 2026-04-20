@@ -29,32 +29,6 @@ El diseño es modular y está pensado para poder adaptarse fácilmente a datos r
 
 ---
 
-## Estructura del proyecto
-
-
-mission_planner/
-├── main.py
-├── requirements.txt
-├── config/
-│ └── configuracion.py
-├── datos/
-│ ├── generador_datos.py
-│ └── efemerides_simuladas.py
-├── fisica/
-│ ├── orbita.py
-│ └── transferencias.py
-├── optimizacion/
-│ └── buscador_ruta.py
-├── visualizacion/
-│ └── graficos.py
-├── interfaz/
-│ └── ventana_principal.py
-└── utilidades/
-└── auxiliares.py
-
-
----
-
 ## Instalación
 
 Clonar el repositorio:
